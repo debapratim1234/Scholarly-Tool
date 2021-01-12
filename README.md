@@ -5,9 +5,9 @@
  ![Scholarly](https://drive.google.com/uc?export=view&id=1VF196eZFm3BTFPvF0pA1MBWDPUya_Sre)
  
 ## Contents
-*  [Overview] (#Overview)
-* Motivation
-* Technologies Used
+*  [Overview] (#overview)
+*  [Motivation] (#motivation)
+*  [Technologies Used] (#technologies-used)
 
 ## Overview
  
