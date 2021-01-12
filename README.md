@@ -5,7 +5,7 @@
  ![Scholarly](https://drive.google.com/uc?export=view&id=1VF196eZFm3BTFPvF0pA1MBWDPUya_Sre)
  
 ## Contents
-* [Overview] (https://github.com/debapratim1234/Scholarly-Tool#Overview)
+*  [Overview] (#Overview)
 * Motivation
 * Technologies Used
 
